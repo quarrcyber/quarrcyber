@@ -23,7 +23,7 @@
 - 💬 Ask me about: **SQLi, XSS, IDOR, SSRF, CSRF, etc..🔍**
 - ⚡ Fun fact: **Hunting bugs, not people🐛**
 - 📂 Portfolio: **<a href="https://github.com/quarrcyber/Portfolio-writeups" target="_blank">https://github.com/quarrcyber/Portfolio-writeups</a>**
-- 📝 Blog: **<a href="https://hackmd.io/team/quarrCTF?nav=overview" target="_blank">https://hackmd.io/team/quarrCTF?nav=overview</a>**
+- 📝 Blog: **<a href="https://hackmd.io/team/HugoBlog" target="_blank">https://hackmd.io/team/HugoBlog</a>**
 
 
  **<h3 align="left">Skills</h3>**
