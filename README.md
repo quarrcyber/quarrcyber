@@ -33,8 +33,7 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=quarrcyber&theme=transparent&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&hide_border=true&rank_icon=default&number_format=long&show=&text_bold=false&disable_animations=false" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=quarrcyber&theme=transparent&hide_border=true&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  
   
 </p>
 <img src="https://raw.githubusercontent.com/quarrcyber/quarrcyber/output/snake.svg" width="1500" alt="Snake animation" />
