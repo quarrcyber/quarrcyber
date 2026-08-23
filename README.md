@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **Penetration testing web app — hunting for vulnerabilities**
 - 💬 Ask me about: **SQLi, XSS, IDOR, SSRF, CSRF, etc..🔍**
 - ⚡ Fun fact: **Hunting bugs, not people🐛**
-- 📂 Portfolio:  **<a href="[https://hackmd.io/@CfKuoKLASTa1W_om2uLYfw](http://hugotran-blog.vercel.app/)" target="_blank">[https://hackmd.io/@CfKuoKLASTa1W_om2uLYfw](http://hugotran-blog.vercel.app/)</a>**  
+- 📂 Portfolio:  **<a href="http://hugotran-blog.vercel.app" target="_blank">http://hugotran-blog.vercel.app</a>**  
 - 📝 Blog: **<a href="https://gist.github.com/quarrcyber" target="_blank">https://gist.github.com/quarrcyber</a>**
            
 
